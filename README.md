@@ -1,6 +1,6 @@
-<a href = "https://github.com/Zivfurr/HAORI-IQ-MD"><img src = "https://cardivo.vercel.app/api?name=HAORI SHINY&description=HAORI,%20Bot%20WhatsApp%20Created%20by%20Zivfurr.&image=https://telegra.ph/file/a7c150d1ce8c60ca3bdfb.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=HAORI AND ZIVFURR&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "https://github.com/Zivfurr/HAORI-IQ-MD"><img src = "https://cardivo.vercel.app/api?name=HAORI SHINY&description=HAORI,%20Bot%20WhatsApp%20Created%20by%20Zivfurr.&image=https://telegra.ph/file/014dcf38f8d0c9da82860.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=HAORI MD IQ&pattern=topography&colorPattern=%23eaeaea"/><a>
 <p align="center">
-  <a href="https://github.com/Zivfurr"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Im++Haori+And+Zivfurr+🍭;Sc+Recode+By+Zivfurr+❤️;Give+Start+And+Forks+This+Repo+🌱;" alt="ZIVFURR">
+  <a href="https://github.com/Zivfurr"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Im++Haori+And+Zivfurr+ðŸ­;Sc+Recode+By+Zivfurr+â¤ï¸;Give+Start+And+Forks+This+Repo+ðŸŒ±;" alt="ZIVFURR">
 </p>
 
 <p align="center">
