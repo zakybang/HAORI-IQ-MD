@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
--------
+
 
 ## Information
 > Shiro whatsapp using a Baileys library.
