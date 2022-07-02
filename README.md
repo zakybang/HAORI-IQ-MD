@@ -67,7 +67,7 @@ npm start
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Zivfurr/HAORI-IQ-MD/blob/master/haori.json#L1)
+[`Click Here`](https://github.com/Zivfurr/HAORI-IQ-MD/blob/master/haori.json)
 
 ## ```DONATE```
 
