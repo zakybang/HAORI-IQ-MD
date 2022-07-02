@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PilarV2/ZEUSBOTZ-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/PilarV2/ZEUSBOTZ-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/PilarV2/ZEUSBOTZ-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/PilarV2/ZEUSBOTZ-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/PilarV2/ZEUSBOTZ-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/PilarV2/ZEUSBOTZ-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zivfurr/HAORI-IQ-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Zivfurr/HAORI-IQ-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Zivfurr/HAORI-IQ-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Zivfurr/HAORI-IQ-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Zivfurr/HAORI-IQ-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Zivfurr/HAORI-IQ-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
-<a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/PilarV2/ZEUSBOTZ-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 -------
 ## Information
