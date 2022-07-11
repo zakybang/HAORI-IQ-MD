@@ -164,9 +164,13 @@ conn.logger.level = 'debug'
 ----|----
 [ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
  Creator | Partner
+### Hyzer Statistics
+
+[![Haori GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivfurr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Haori Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zivfurr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![Pilar](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
- Helpfully | Suhu? | Friends
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2)
+ Helpfully | Suhu? | 
