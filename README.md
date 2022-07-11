@@ -15,6 +15,8 @@
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 
+# CATATAN ( NOTE )
+Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
 
 ## Information
 > Shiro whatsapp using a Baileys library.
