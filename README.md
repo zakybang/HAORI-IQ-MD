@@ -62,9 +62,9 @@ pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
 git clone https://github.com/Zivfurr/HAORI-IQ-MD
-cd HAORI-SHINY
-npm install -g npm@6.14.14
-npm start
+cd HAORI-IQ-MD
+npm i
+npm start atau node .
 ```
 
 ## `CHANGE SESSION`
