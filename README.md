@@ -27,7 +27,7 @@ Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan
 >
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus
 > 
-> • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
+> • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku atau okteto
 > 
 
 -------
