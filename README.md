@@ -158,19 +158,19 @@ conn.logger.level = 'trace'
 
 ```js
 conn.logger.level = 'debug'
-```
+```https://github.com/Kangsad01
 # Creator Bot
  [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
 ----|----
 [ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
  Creator | Partner
-### Hyzer Statistics
+### Haori Statistics
 
 [![Haori GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivfurr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Haori Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zivfurr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![Pilar](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![Pilar](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2) | [![The.sad.boy01](https://github.com/Kangsad01.png?size=200)](https://github.com/Kangsad01)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2)
- Helpfully | Suhu? | 
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2) | [The.sad.boy01](https://github.com/Kangsad01)
+ Helpfully | Suhu? | Kang Record | Kang Record
