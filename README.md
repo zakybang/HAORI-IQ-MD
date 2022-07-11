@@ -16,7 +16,7 @@
 </p>
 
 # CATATAN ( NOTE )
-jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan Di Jual Scriptnya Dan Ini Free Untuk Semua Kalo Mau Colong Plugins Nya Kasih Credits Bang/Kak Minimal Hargai Orang Yang Buat Fitur Nya Kalo Mau Req Fitur Chat Aja Kalo Mau Buat Fitur Nya Sendiri Aja Kalo Mau Lebih Bagus Silakan Edit Aja
 
 ## Information
 > Shiro whatsapp using a Baileys library.
@@ -159,11 +159,11 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
+# Creator Bot
+ [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
 
----------
-[![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
+
 ----|----
 [ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
  Creator | Partner
-
 
