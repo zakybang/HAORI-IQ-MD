@@ -11,7 +11,7 @@
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Zivfurr/HAORI-IQ-MD?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Zivfurr/HAORI-IQ-MD?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
+<a href="https://twitter.com/colawolf7?t=r7joaAlphNyqLNBh2gusrA&s=09"><img src="https://img.shields.io/twitter/follow/colawolf7?t=j02m699Q65Sb6vrLkvk15Q&s=09?style=social" /> <br>
 <a href="https://github.com/Zivfurr/HAORI-IQ-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Zivfurr/HAORI-IQ-MD?label=PullRequest&color=red&style=flat-square"></a>
 </p>
 
