@@ -1,3 +1,4 @@
+const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys-md')
 let levelling = require('../lib/levelling')
 let fs = require('fs')
 let path = require('path')
@@ -215,6 +216,7 @@ const defaultMenu = {
         setTimeout(resolve, 1000)
       }) * 1000
     }
+    let mode = global.opts['self'] ? 'Private' : 'Public'
     let muptime = clockString(_muptime)
     let uptime = clockString(_uptime)
     global.jam = time
@@ -249,7 +251,48 @@ const defaultMenu = {
     }
     
     if (teks == '404') {
-             let judul = `${ucapan()}, ${name}`.trim() 
+    	let tksk = `${ucapan()}, ${name} ${pickRandom(['😅', '🥰', '😜'])}
+
+_${pickRandom(global.motivasi)}_
+    
+╭──── 「 *BOT INFO* 」 ────┈ ⳹
+│ 
+│❒͡ *Bot Name: HAORI IQ MD*
+│❒͡ *Creator: Stah Ziv San*
+│❒͡ *Contact Owner Bot*
+│ *https://wa.me/*
+│❒͡ *Tanggal: 9 Juli 2022*  
+│❒͡ *Jam: ${time} WIB*
+│❒͡ *Status: 「 ${mode} 」*
+│❒͡ *Prefix: 「 MULTI PREFIX 」*
+│❒͡  𝙏𝘼𝙃𝙐𝙉 𝘽𝘼𝙍𝙐
+│❒͡ _*${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik*_
+│❒͡  𝙍𝘼𝙈𝘼𝘿𝘼𝙉
+│❒͡ _*${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik*_ 
+│❒͡  𝙐𝙇𝘼𝙉𝙂 𝙏𝘼𝙃𝙐𝙉 𝙊𝙒𝙉𝙀𝙍 
+│❒͡ _*${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik*_
+│ 
+╰──── 「 *HAORI BOT* 」 ────┈ ⳹
+
+❉─────────────────────❉  
+◦ *Nama: ${name}*
+◦ *Status :* ${premium ? 'Premium' : 'Free'} User
+◦ *Limit: ${limit}*
+◦ *Your Api:* wa.me/${m.sender.split('@')[0]}
+❉────────────────────❉  
+*Your Progress*:
+◦ *Level: ${level}*
+◦ *XP: ${exp}*
+◦ *Rank: ${role}*
+❉────────────────────❉  
+
+*⟣┈────「 BOT STATUS 」 ────┈⟢*
+❏ *Runtime ${uptime}*
+𒍮 *User Register: ${totalreg}*
+*⟣┈───「 HAORI BOT 」 ──────┈⟢*`
+
+let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner`
+             let judul = `${ucapan()}`.trim() 
        const sections = [ 
        { 
          title: 'List Menu Haoribotz ', 
@@ -283,39 +326,14 @@ const defaultMenu = {
        } 
      ] 
      const listMessage = { 
-       text: ` 
- ┏━━〔 ıll  *U S E R   I N F O* llı 〕━⟢
- ┃⌬  Nama  :  *${name}* 
- ┃⌬  Limit  :  *${limit}* 
- ┃⌬  Status :  *${global.owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender) ? 'Owner 😌' : 'Users ⚔️'}* 
- ┃⌬ Premium :  *${premium ? `${conn.msToDate(premiumTime - new Date() * 1)}` : 'Gratisan'}* 
- ┗━━━━━━━━━━━━━━━━━━━⟢
-   
- ┏━━〔 ıll  *S T A T U S * llı 〕━━⟢
- ◎ Total User :  *${rtotalreg} dari ${totalreg}* 
- ◎ Tersisa:  *${limit} Limit* 
- ◎ Role :  *${role}* 
- ◎ Level :  *${level}* 
- ┗━━━━━━━━━━━━━━━━━━━⟢
-  
- ❏ 𝙏𝙄𝙈𝙀 
- » Wib :  *${time}* 
- » Tanggal :  *${week} ${weton} ${date}* 
-  
- ❏ 𝙏𝘼𝙃𝙐𝙉 𝘽𝘼𝙍𝙐 
- _*${jhari} Hari ${jjam} Jam ${mmmenit} Menit ${ddetik} Detik*_ 
-  
- ❏ 𝙍𝘼𝙈𝘼𝘿𝘼𝙉 
- _*${harii} Hari ${jamm} Jam ${menitt} Menit ${detikk} Detik*_ 
-  
- ❏ 𝙐𝙇𝘼𝙉𝙂 𝙏𝘼𝙃𝙐𝙉 𝙊𝙒𝙉𝙀𝙍 
- _*${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik*_`, 
-       footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
+       text: `Hai Kak ${name}, Pilih Menu Disini Kak`, 
+       footer: 'Jangan Lupa Donasi Ya Kak',
        title: judul, 
        buttonText: "Klik Disini", 
        sections 
      } 
-     return conn.sendMessage(m.chat, listMessage, { quoted: ftrol, mentions: await conn.parseMention(judul), contextInfo: { forwardingScore: 99999, isForwarded: true }}) 
+ conn.send2ButtonLoc(m.chat, await (await fetch('https://telegra.ph/file/334d224de652b009d82e8.jpg')).buffer(), tksk, ftt, 'OWNER', '.owner', 'DONASI', '.donasi', m, { contextInfo: { mentionedJid: conn.parseMention(tksk)}})
+     return conn.sendMessage(m.chat, listMessage, { quoted: m, mentions: await conn.parseMention(judul), contextInfo: { forwardingScore: 99999, isForwarded: true }}) 
       
      } 
      let groups = {} 
