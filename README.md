@@ -158,7 +158,7 @@ conn.logger.level = 'trace'
 
 ```js
 conn.logger.level = 'debug'
-```https://github.com/Kangsad01
+```
 # Creator Bot
  [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
 ----|----
