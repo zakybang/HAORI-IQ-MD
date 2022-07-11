@@ -1,6 +1,6 @@
-<a href = "https://github.com/Zivfurr/HAORI-IQ-MD"><img src = "https://cardivo.vercel.app/api?name=HAORI SHINY&description=HAORI,%20Bot%20WhatsApp%20Created%20by%20Zivfurr.&image=https://telegra.ph/file/014dcf38f8d0c9da82860.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=HAORI MD IQ&pattern=topography&colorPattern=%23eaeaea"/><a>
+<a href = "https://github.com/Zivfurr/HAORI-IQ-MD"><img src = "https://cardivo.vercel.app/api?name=HAORI IQ-MD&description=HAORI,%20Bot%20WhatsApp%20Created%20by%20Zivfurr.&image=https://telegra.ph/file/9642ad8de10cbafc5a0dd.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=HAORI MD IQ&pattern=topography&colorPattern=%23eaeaea"/><a>
 <p align="center">
-  <a href="https://github.com/Zivfurr"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Im++Haori+And+Zivfurr+ðŸ­;Sc+Recode+By+Zivfurr+â¤ï¸;Give+Start+And+Forks+This+Repo+ðŸŒ±;" alt="ZIVFURR">
+  <a href="https://github.com/Zivfurr"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Im++Haori+And+Zivfurr+🌟;Sc+Recode+By+Zivfurr+☄️;Give+Start+And+Forks+This+Repo+🎶;" alt="ZIVFURR">
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 </p>
 
 # CATATAN ( NOTE )
-Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan Di Jual Scriptnya Dan Ini Free Untuk Semua Kalo Mau Colong Plugins Nya Kasih Credits Bang/Kak Minimal Hargai Orang Yang Buat Fitur Nya Kalo Mau Req Fitur Chat Aja Kalo Mau Buat Fitur Nya Sendiri Aja Kalo Mau Lebih Bagus Silakan Edit Aja
+Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan Di Jual Scriptnya Dan Ini Free Untuk Semua Kalo Mau Colong Plugins Nya Kasih Credits Bang/Kak Minimal Hargai Orang Yang Buat Fitur Nya Kalo Mau Req Fitur Chat Aja Kalo Mau Buat Fitur Nya Sendiri Aja Kalo Mau Lebih Bagus Silakan Edit Aja 
 
 ## Information
-> Shiro whatsapp using a Baileys library.
+> Haori whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: INI SC GAK BISA BUAT SESSION DI TERMUX YA, JADI KALIAN CARI SESSION DULU PAKAI SC LAIN 
 > • rekomendasi sc buat cari session [disini](https://github.com/ilmanhdyt/ShiraoriBOT-Md)
 >
-> • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
+> • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
 > 
@@ -45,7 +45,7 @@ Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan
 
 ```bash
 git clone https://github.com/Zivfurr/HAORI-IQ-MD
-cd HAORI-SHINY
+cd HAORI-IQ-MD
 npm i
 npm update
 node .
