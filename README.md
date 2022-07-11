@@ -349,4 +349,4 @@ conn.logger.level = 'debug'
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2) | [![The.sad.boy01](https://github.com/Kangsad01.png?size=200)](https://github.com/Kangsad01)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2)
- Helpfully | Suhu? | Friends
+ Helpfully | Suhu? | Kang Record
