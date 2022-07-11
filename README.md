@@ -161,9 +161,12 @@ conn.logger.level = 'debug'
 ```
 # Creator Bot
  [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
-
-
 ----|----
 [ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
  Creator | Partner
 
+# Thanks to
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
+----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
+ Helpfully | Suhu? | Friends
