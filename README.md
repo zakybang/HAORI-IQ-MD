@@ -66,7 +66,9 @@ cd HAORI-IQ-MD
 npm i
 npm start atau node .
 ```
+## FOR DEPLOY REPLIT USER
 
+[![Run on Repl.it](https://repl.it/badge/github/Zivfurr/HAORI-IQ-MD)](https://repl.it/github/Zivfurr/HAORI-IQ-MD)
 ## `CHANGE SESSION`
 
 [`Click Here`](https://github.com/Zivfurr/HAORI-IQ-MD/blob/master/haori.json)
