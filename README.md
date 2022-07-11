@@ -160,9 +160,9 @@ conn.logger.level = 'trace'
 conn.logger.level = 'debug'
 ```
 # Creator Bot
- [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Ilman](https://github.com/Ilman.png?size=100)](https://github.com/Ilman)
+ [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Ilman](https://github.com/ilmanhdyt.png?size=100)](https://github.com/ilmanhdyt)
 ----|----
-[ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
+[ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ilman](https://github.com/ilmanhdyt)
  Creator | Author
 ### Haori Statistics
 
