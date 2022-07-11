@@ -170,8 +170,7 @@ conn.logger.level = 'debug'
 [![Haori Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zivfurr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![Pilar](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2) | [![The.sad.boy01](https://github.com/Kangsad01.png?size=200)](https://github.com/Kangsad01)
-
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![Pilar](https://github.com/PilarV2.png?size=200)](https://github.com/PilarV2)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2) | [The.sad.boy01](https://github.com/Kangsad01)
- Helpfully | Suhu? | Kang Record | Kang Record
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2)
+ Helpfully | Suhu? | Kang Record
