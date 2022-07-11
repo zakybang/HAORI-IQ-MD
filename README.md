@@ -160,10 +160,10 @@ conn.logger.level = 'trace'
 conn.logger.level = 'debug'
 ```
 # Creator Bot
- [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
+ [![ZIVFURR & HAORI](https://github.com/Zivfurr.png?size=100)](https://github.com/Zivfurr) | [![Ilman](https://github.com/Ilman.png?size=100)](https://github.com/Ilman)
 ----|----
 [ZIVFURR & HAORI](https://github.com/Zivfurr) | [Ynz](https://github.com/Ynzz-Bot)
- Creator | Partner
+ Creator | Author
 ### Haori Statistics
 
 [![Haori GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zivfurr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
@@ -175,7 +175,7 @@ conn.logger.level = 'debug'
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Pilar](https://github.com/PilarV2)
  Helpfully | Suhu? | Kang Record
 
-[![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) 
-----|----|----
-[Nurutomo](https://github.com/Nurutomo)
- Helpfully
+[![The.sad.boy01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01) | [![Yanz](https://github.com/Ynzz-Bot.png?size=100)](https://github.com/Ynzz-Bot)
+----|----
+[The.sad.boy01](https://github.com/Kangsad01) | [Ynz](https://github.com/Ynzz-Bot)
+ Kang Record | Partner
