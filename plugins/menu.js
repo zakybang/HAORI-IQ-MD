@@ -29,21 +29,17 @@ let levelling = require('../lib/levelling')
  
               *〔 llı INFO COMMAND ıll 〕*     
                 
-  ✘⃟🎋  Command total : %totalcmd* 
-  ✘⃟🎋  Command hit : %all* 
-  ✘⃟🎋  Command success : %sall* 
-
 *Ⓟ* = Premium
 *Ⓛ* = Limit
 
  %readmore`.trimStart(),
   header: `
-⁙╭━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━  ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━╮
+⁙╭⃝━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ▣ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━─▣
 ⁙┃╭┈─────────────⩵꙰ཱི࿐
-⁙┃╰───━⃝┅ *%category* ┅⃝━───ꕥ ↶↷*
+⁙┃╰───━⃝┅❲ *%category* ❳┅⃝━───ꕥ ↶↷
 ⁙├☆─〔 HAORI CHAN 〕──┈➤`,
   body: `⁙├〲 %cmd %islimit %isPremium`,
-  footer: `⁙╰•──────━⃝┅⃝━─────┈ ⳹`,
+  footer: `⁙╰•──────━⃝┅⃝━─═┅═━–┈ ⳹`,
   after: `
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❙❘❙❙❘❙❘❙❚❙❘❙❙❙❘❙❘❙❚❙❘❙❚❙❘❙❙❘❙❚❙❘ ⌕.
 `,
@@ -233,11 +229,12 @@ const hariRaya = new Date('January 1, 2023 23:59:59')
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
  let ow = `@${'6282179137771'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
+let mode = global.opts['self'] ? 'Private' : 'Public'
 let fkon = { key:
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "60149431385-1618206438@g.us" } : {}) },
-	 message: { contactMessage: { displayName: `${pickRandom(['Jaga Kesehatan', 'Patuhi Porkes 😷', 'Haori Sayang You'])}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:Haori\nitem1.TEL;waid=628158866902:6285158866902\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+	 message: { contactMessage: { displayName: `${pickRandom(['HAORI IQ-MD', 'Create By Ziv San', 'Simple Bot Whatsapp'])}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:Zivfurr\nitem1.TEL;waid=6285158866902:6285158866902\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
 	}
  const haori = {
     key : {
@@ -288,50 +285,50 @@ let fkon = { key:
          enabled: !plugin.disabled, 
        } 
      }) 
-      let tksk = `╭━━━━━━━━━━━━━━━━━┈ꕥ
-│               *﹝ ɪɴғᴏ ﹞* 
-└┬────────────────┈ ⳹
-┌┤◦➛ *Nama :* *${name}*
-││◦➛ *Exp :* *${exp}*
-││◦➛ *Status:* ${premium ? 'Premium' : 'Free'} User
-││◦➛ *Limit :* *${limit}*
-││◦➛ *Level :* *${level}*
-││◦➛ *Rank :* *${role}*
-││◦➛ *Tag :* ${tag}
-└┬────────────────┈ ⳹
-┌┤          *﹝ ᴛɪᴍᴇ ɪɴғᴏ ﹞*
-│└────────────────┈ ⳹
-│◦➛ Hari: *${week}*
-│◦➛ Weton: *${weton}*
-│◦➛ Tanggal: *${date}*
-│◦➛ Waktu: *${time}* 
-│◦➛ Islam: *${dateIslamic}*
-│◦➛ Uptime: *${uptime}*
-└┬────────────────┈ ⳹
-┌┤             *﹝ ʙᴏᴛ ɪɴғᴏ ﹞* 
-│└────────────────┈ ⳹
-│◦➛ Aktif selama ${uptime}
-│◦➛ Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 Pengisian' : ''}` : '❓ Tidak Diketahui'}
-│◦➛ Prefix : [Multi Prefix]
-│◦➛ Owner : ${ow}
-│◦➛ Runtime: ${uptime}
-│◦➛ Bot Name: ${conn.user.name}
-│◦➛ Name Owner: Zivfurr & Haori
-│◦➛ home: ${totalreg}
-│◦➛ Database: Lowdb
-╰━━━━━━━━━━━━━━━━━┈ꕥ`
+      let tksk = `⃝▣━–━–━–━–━–⊙–━–━–━–━┈▧
+│            *〔 ıll ɪɴғᴏ llı 〕* 
+└┬──────────────────┈ ⳹
+┌┤◦〉 *Nama :* *${name}*
+││◦〉 *Exp :* *${exp}*
+││◦〉 *Status :* ${premium ? 'Premium' : 'Free'} User
+││◦〉 *Limit :* *${limit}*
+││◦〉 *Level :* *${level}*
+││◦〉 *Rank :* *${role}*
+││◦〉 *Tag :* ${tag}
+└┬──────────────────┈ ⳹
+┌┤       *〔 ıll  ᴛɪᴍᴇ ɪɴғᴏ llı 〕*
+│└──────────────────┈ ⳹
+│◦〉 Hari : *${week}*
+│◦〉 Weton : *${weton}*
+│◦〉 Tanggal : *${date}*
+│◦〉 Waktu : *${time}* 
+│◦〉 Islam : *${dateIslamic}*
+│◦〉 Uptime : *${uptime}*
+└┬──────────────────┈ ⳹
+┌┤       *〔 ıll  ʙᴏᴛ ɪɴғᴏ llı 〕* 
+│└──────────────────┈ ⳹
+│◦〉 Baterai : ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 Pengisian' : ''}` : '❓ Tidak Diketahui'}
+│◦〉 Prefix : [ Multi Prefix ]
+│◦〉 Owner : ${ow}
+│◦〉 Mode : ${mode}
+│◦〉 Runtime: ${uptime}
+│◦〉 Bot Name : ${conn.user.name}
+│◦〉 Name Owner: Zivfurr & Haori
+│◦〉 Register : ${totalreg}
+│◦〉 Database : Lowdb
+╰━–━–━–━–━–⊙–━–━–━–━┈▧`
 
-let ftt = `📮 Note : Haoribotz Masih Tahap Perkembangan Kalo Ada Yang Error Mohon Untuk Sementara Maklumi
+let ftt = `📮 Catatan: Perlakukan Bot Secara Baik, Dev Akan Bertindak Tegas Apabila Pengguna Melanggar Rules. 
                  
-                       「 *廾ΛӨЯI IQ MD 🌱* 」`
+                       「 *廾ΛӨЯI IQ MD ᯤ* 」`
      if (teks == '404') { 
-      return await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/d0749f163a9e4522be235.jpg')).buffer(), tksk, ftt, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', haori, { contextInfo: { mentionedJid: conn.parseMention(tksk), externalAdReply :{ 
+      return await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/ed6e4421aff4471b172f0.jpg')).buffer(), tksk, ftt, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', haori, { contextInfo: { mentionedJid: conn.parseMention(tksk), externalAdReply :{ 
      mediaUrl: `${pickRandom([`https://www.facebook.com/Inunime-107082474576049/`,`https://youtu.be/JWHV8lPTzPs`])}`, 
      mediaType: 2, 
      description:  '',  
-     title: `${ucapan()} Kak ${name} UwU`,
-     body: `${ingat()}`,
-     thumbnail: await (await fetch('https://telegra.ph/file/5d64a03f79fe74c61a4b9.jpg')).buffer(),
+     title: `${ucapan()} Kak ${name} UωU`,
+     body: `${pickRandom(['udah makan belum kak?', 'udh mandi belum kak?', 'Semangat ya kak!', 'Jangan begadang mulu ya!', 'jangan spam ya kak!', 'Jangan lupa donasi yak kak! >.<', 'Jaga kesehatan yaw kak!', 'Jangan lupa makan!', 'Jangan lupa istirahat yak! >.<', 'I Love you kak >.< 💗✨', 'Pr nya udh belum kak?', 'Jangan kebanyakan main hp yk! nanti sakit :‹'])}`,
+     thumbnail: await (await fetch('https://telegra.ph/file/f64d6f546f3a28186a9ab.jpg')).buffer(),
      sourceUrl: 'https://vt.tiktok.com/ZSdwokqe4/'}}})
   
     }
@@ -355,8 +352,8 @@ let ftt = `📮 Note : Haoribotz Masih Tahap Perkembangan Kalo Ada Yang Error Mo
            ...help.filter(menu => menu.tags && menu.tags.includes(tag) && menu.help).map(menu => { 
              return menu.help.map(help => { 
                return body.replace(/%cmd/g, menu.prefix ? help : '%p' + help) 
-                 .replace(/%islimit/g, menu.limit ? ' *Ⓛ* ' : '') 
-                 .replace(/%isPremium/g, menu.premium ? ' *Ⓟ* ' : '') 
+                 .replace(/%islimit/g, menu.limit ? 'Ⓛ' : '') 
+                 .replace(/%isPremium/g, menu.premium ? 'Ⓟ ' : '') 
                  .trim() 
              }).join('\n') 
            }), 
@@ -383,24 +380,50 @@ let ftt = `📮 Note : Haoribotz Masih Tahap Perkembangan Kalo Ada Yang Error Mo
      } 
      text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name]) 
  await conn.reply(m.chat, '*L o a d i n g . . .*', fload) 
-              await conn.send2ButtonVid(m.chat, 'https://telegra.ph/file/d26cbf05e9a851f20bb21.mp4', text.trim(),  '                   「 *カ HAORI BOT IQ MD あ⁩* 」', 'OWNER', '.owner', 'Ping', '.ping', m, { quoted: haori, contextInfo: {       
-     externalAdReply :{ 
+              await conn.send2ButtonVid(m.chat, 'https://telegra.ph/file/58f858fc9872fe5443df4.mp4', text.trim(),  '                   「 *カ HAORI BOT IQ MD あ⁩* 」', 'OWNER', '.owner', 'Ping', '.ping', m, { quoted: haori, contextInfo: { forwardingScore: 99999, isForwarded: true,
+     externalAdReply :{ 
      mediaUrl: `${pickRandom([`https://www.facebook.com/Inunime-107082474576049/`,`https://youtu.be/JWHV8lPTzPs`])}`, 
      mediaType: 2, 
      description:  '',  
      title: `${ucapan()}`,
      body: `Time ${wktuwib}`,
-     thumbnail: await (await fetch('https://telegra.ph/file/67f4c895e7ca8d918f91a.jpg')).buffer(),
+     thumbnail: await (await fetch('https://telegra.ph/file/ed6e4421aff4471b172f0.jpg')).buffer(),
      sourceUrl: 'https://vt.tiktok.com/ZSdwokqe4/'
        } 
       } 
    })
+ /*let url = `https://telegra.ph/file/2ebe351a63861053f58df.jpg`.trim()
+    let res = await fetch(url)
+    let buffer = await res.buffer()
+    let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
+                const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
+                    templateMessage: {
+                        hydratedTemplate: {
+                            locationMessage: {
+                            jpegThumbnail: fs.readFileSync('./src/miko.jpg') },
+                            hydratedContentText: text.trim(),
+                            hydratedFooterText:'Ⓟ = for premium users.\nⓁ = fitur berlimit.',
+                            hydratedButtons: [{
+                                quickReplyButton: {
+                                    displayText: 'Donasi🧾',
+                                    id: '/donasi'
+                                }
+                            }, {
+                                quickReplyButton: {
+                                    displayText: 'Sewa Bot',
+                                    id: '/sewa'
+                                }  
+                            }]
+                        }
+                    }
+                }), { userJid: m.chat, quoted: m })
+                conn.relayMessage(m.chat, template.message, { messageId: template.key.id })*/
    conn.sendFile(m.chat, bzz, 'haori.mp3', null, fkon, true, {
-type: 'audioMessage', // paksa tanpa convert di ffmpeg
-ptt: true, contextInfo:{externalAdReply: {title: '𝙷𝙰𝙾𝚁𝙸𝙱𝙾𝚃𝚉 𝚂𝙴𝙽𝙶𝙾𝙻 𝙳𝙾𝙽𝙶 :v', body: `${pickRandom(['Simple Bot WhatsApp', 'Create By Zivfurr', 'Furry Botz By Zivfurr'])}`, sourceUrl: 'https://bit.ly/3N024o9', thumbnail: await (await fetch('https://telegra.ph/file/8501db84d6e15b55c6273.jpg')).buffer(),}} 
+type: 'audioMessage', 
+ptt: true, contextInfo:{ externalAdReply: {title: 'Stay Grateful With Your Life', body: `${pickRandom(['Simple Bot WhatsApp', 'Create By Zivfurr'])}`, sourceUrl: 'https://bit.ly/3N024o9', thumbnail: await (await fetch('https://telegra.ph/file/63c668962b7abcc95b394.jpg')).buffer(),}} 
      }) 
    } catch (e) { 
-     conn.reply(m.chat, 'Maaf, menu sedang error', m) 
+     conn.reply(m.chat, 'Maaf, Terjadi Kesalahan Program Coding', m) 
      throw e 
    } 
  } 
