@@ -66,6 +66,10 @@ cd HAORI-IQ-MD
 npm i
 npm start atau node .
 ```
+## FOR DEPLOY HEROKU USER
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zivfurr/HAORI-IQ-MD)
+
 ## FOR DEPLOY REPLIT USER
 
 [![Run on Repl.it](https://repl.it/badge/github/Zivfurr/HAORI-IQ-MD)](https://repl.it/github/Zivfurr/HAORI-IQ-MD)
