@@ -34,7 +34,7 @@ Scriptbot Ini Masih Tahap Perkembangan Jadi Kalo Ada Yang Error Maklumin, Jangan
 ## Whatsapp
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID)
-[![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281379927605)
+[![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282179137771)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
