@@ -6,7 +6,7 @@ let levelling = require('../lib/levelling')
  let jimp = require('jimp') 
  let PhoneNumber = require('awesome-phonenumber') 
  const defaultMenu = { 
-   before: ` 
+   before: ``.trim(), 
 ꒦꒷꒷꒦꒷꒦꒦꒦꒷•〔 ll нασяι-вσт ཻུ⸙͎ 〕•꒦꒷꒷꒦꒷꒷꒦꒦꒷
 
  ✘⃟🎋   *Name:* %name
@@ -32,7 +32,7 @@ let levelling = require('../lib/levelling')
 *Ⓟ* = Premium
 *Ⓛ* = Limit
 
- %readmore`.trimStart(),
+ %readmore``.trim(),,
   header: `
 ⁙╭⃝━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ▣ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━─▣
 ⁙┃╭┈─────────────⩵꙰ཱི࿐
